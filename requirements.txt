@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+Flask
+gunicorn
+imblearn
+xgboost
+mysql-connector
+requests
+joblib
+pandas
+xgboost
